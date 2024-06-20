@@ -99,5 +99,5 @@ This project is licensed under the MIT License. See the [Apache License 2.0] fil
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact us at [adarshsinghmain2002@gmail.com].
+For any questions or suggestions, feel free to open an issue or contact us at [yashsinghmain2002@gmail.com].
 
