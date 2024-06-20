@@ -95,7 +95,7 @@ We welcome contributions to improve the system. Please follow the standard fork-
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [Apache License 2.0] file for details.
 
 ## Contact
 
