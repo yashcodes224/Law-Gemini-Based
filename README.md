@@ -7,9 +7,9 @@
 The Legal Question-Answering System leverages Google Generative AI to answer legal questions intelligently based on a corpus of legal documents. The system currently supports multiple law domains, including:
 
 - Criminal Law
-- Civil Law (implementation pending)
-- Indian Divorce Act (implementation pending)
-- Motor Vehicle Act (implementation pending)
+- Civil Law 
+- Indian Divorce Act 
+- Motor Vehicle Act 
 
 Users can interact with the system by selecting their domain of interest and posing their legal questions. The system processes the query, retrieves the most relevant legal passage, and generates an informative and concise answer.
 
